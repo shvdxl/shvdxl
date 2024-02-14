@@ -9,7 +9,7 @@
 
 #
 ### stats
-
+<div align="center" dir="auto>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shvdxl&theme=material-palenight" alt="GitHub Streak" />
-
+</div>  
 
