@@ -4,6 +4,7 @@ I am proudly an AI graduate from Imam Abdulrahman bin Faisal University, with a 
 ### tools and languages
 
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
 </br>
 
